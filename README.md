@@ -25,7 +25,7 @@ The trained model is used to make predictions on the testing data.
 The Root Mean Squared Error (RMSE) is calculated to evaluate the model's performance.
 
 Results 📉
-The RMSE for the linear regression model on the test set is found to be approximately [insert RMSE value here].
+The RMSE for the linear regression model on the test set is found.
 
 Conclusion 🎉
 Based on the RMSE value obtained, the linear regression model provides a reasonably accurate prediction of the temperature outside the building (T6) based on the temperature in the living room (T2).
